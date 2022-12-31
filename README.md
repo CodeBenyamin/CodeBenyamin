@@ -5,9 +5,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://instagram.com/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://instagram.com/)
 
-
-![CodeBenyamin GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeBenyamin&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBenyamin&layout=compact&langs_count=7&theme=dracula)](https://github.com/CodeBenyamin/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/CodeBenyamin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeBenyamin&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBenyamin&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ### Technologies of my learning in my day.
 
